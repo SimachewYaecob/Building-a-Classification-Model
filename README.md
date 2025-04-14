@@ -1,6 +1,7 @@
 
 
 **Classification Model**
+
 **Project Title:** Building a Classification Model 
 
 **Description:** Use the breast cancer dataset to build and evaluate a classification model (e.g., logistic regression, decision tree). Compare model performance using metrics like accuracy and F1 score. 
